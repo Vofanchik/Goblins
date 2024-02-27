@@ -1,4 +1,4 @@
-name: Netology AHJ
+name: Goblins
 
 on: [push, pull_request]
 

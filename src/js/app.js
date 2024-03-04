@@ -1,3 +1,4 @@
+let timeout;
 document.addEventListener('DOMContentLoaded', () => {
   const gamepad = document.querySelector(".gamepad");
 
